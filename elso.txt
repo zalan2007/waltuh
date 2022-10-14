@@ -1,1 +1,2 @@
-Ez a kezdeti fájl a repositoryba.
+Ez a kezdeti fájl a próba2_ repositoryba.
+Ezt egy nyilványos repositoryként hoztam létre.
